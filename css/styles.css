@@ -1,18 +1,14 @@
 body {
   background-color: bisque;
+  text-align: center;
 }
 
 h1,
 p {
-  text-align: center;
   margin: auto;
   padding: 20px;
 }
 
-
-div {
-  text-align: center;
-}
 
 div a {
     margin: 0 22px;
